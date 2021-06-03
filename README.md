@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# SeansLifeArchive-Images-iOS-6
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![IOS_6_logo.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](IOS_6_logo.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+![AppleLogo2011.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](AppleLogo2011.png)
 
 ### Top
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#SeansLifeArchive-Images-iOS-6)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SeansLifeArchive_Images_iOS_6)
 
 [02.0 - About](#About)
 
@@ -61,30 +61,38 @@ Translations in languages other than English are machine translated and are not 
 
 [10.0 - Contributing](#Contributing)
 
-[11.0 - About README](#About-README)
+[11.0 - Request](#Request)
 
-[12.0 - README Version history](#README-version-history)
+> [11.1 - Context](#Context)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [11.2 - Virtualization](#Virtualization)
 
-> [13.1 - End of file](#EOF)
+> [11.3 - The request](#The-request)
+
+[12.0 - About README](#About-README)
+
+[13.0 - README Version history](#README-version-history)
+
+[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [14.1 - End of file](#EOF)
 
 ***
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Images_iOS_6
+The module for my life story project that contains my iOS 6 images. 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository is an archive of my iOS 6 images, an operating system by Apple Inc. in 2012 that I favorite in terms of user interface.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_iOS_6/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -128,9 +136,9 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 ## Contributers
 
-Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
+Currently, I am the only contributer. Contributing is allowed, as long as you fully follow the rules of the `CONTRIBUTING.md` file. See below, or find it yourself.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 60 commits (As of Wednesday, June 2nd 2021 at 5:03 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +208,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.m)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_iOS_6/discussions)
 
 No other resources at the moment.
 
@@ -210,9 +218,31 @@ No other resources at the moment.
 
 ## Contributing
 
-Contributing is not allowed for this project, as this is a personal project.
+Contributing is allowed for this project, despite being a personal project, as I need help getting iOS 6 images.
+
+The contributing rules need to be read in full to contribute.
 
 [Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+
+***
+
+## Request
+
+This is my main request regarding iOS.
+
+### Context
+
+I used to have an iPod Touch (5th generation) with iOS 6 from 2012 to 2015. I came to love the look of iOS, and later on in my life, I gained a heavy amount of nostalgia for it.
+
+#### Virtualization
+
+In 2018, I got into virtualization. As of 2021, I have not been able to find a functional disk or system image of any version of iPhoneOS or iOS. I have found system images for every other operating system (except for video game console operating systems) I would really love to be able to try and get an iOS 6 virtual machine running, and to start research on virtualizing iOS if it hasn't already been done.
+
+## The request
+
+If anyone knows how to do this, or where there is a source is to obtain a digital copy of any version of iOS (iOS 6 and below) please let me know.
+
+[See the original request by clicking/tapping here](/Request/README.md)
 
 ***
 
@@ -220,15 +250,15 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Wednesday, June 2nd 2021 at 5:03 pm)`
 
-Line count: `0,296`
+Line count: `0,320`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
+Version 1 (Wednesday, June 2nd 2021 at 5:03 pm)
 
 > Changes:
 
@@ -256,6 +286,8 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 
 > * Added the contributing section
 
+> * Added the request section
+
 > * Added the about README section
 
 > * Added the README version history section
@@ -265,14 +297,6 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
